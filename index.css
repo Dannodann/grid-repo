@@ -8,7 +8,7 @@ body{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(2, 1fr);  
-    gap: 10px; 
+    gap: 30px; 
     width: auto; 
     height: auto; 
     justify-content: center;
@@ -83,11 +83,11 @@ body{
     margin-top: 0px;
     color: hsl(0, 0%, 100%);
     opacity: 0.5;
-    font-size: 15px;
+    font-size: 13px;
 }
 
 .h-white{
-    font-size: 22px;
+    font-size: 20px;
     margin-bottom: 20px;
 }
 
@@ -101,7 +101,7 @@ body{
 }
 
 .h-black{
-    font-size: 22px;
+    font-size: 20px;
     margin-bottom: 20px;
     color: black;
 }
@@ -114,5 +114,5 @@ body{
     margin-top: 0px;
     color: black;
     opacity: 0.5;
-    font-size: 15px;
+    font-size: 13px;
 }
